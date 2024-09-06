@@ -35,14 +35,14 @@ h1 {
 }
 
 .daftar {
-    height: 50px;
+    height: 40px;
     background-color: #29C276;
     border: none;
     border-radius: 10px;
     font-weight: bolder;
-    font-size: 18px;
     color: azure;
     box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.2);
+
 }
 
 .login {
@@ -58,16 +58,13 @@ h1 {
 
 
 
-
 /* Media Queries untuk Responsivitas */
 @media (min-width: 0px) {
     .form {
         width: 85%;
     }
-
     .daftar {
-        font-size: 16px;
-        height: 45px;
+        font-size: 20px;
     }
     h1 {
         font-size: 30px;
@@ -80,8 +77,7 @@ h1 {
     }
 
     .daftar {
-        font-size: 16px;
-        height: 45px;
+        font-size: 20px;
     }
     h1 {
         font-size: 30px;
@@ -92,12 +88,9 @@ h1 {
     .form {
         width: 60%;
     }
-
     .daftar {
-        font-size: 16px;
-        height: 45px;
+        font-size: 20px;
     }
-
     h1 {
         font-size: 40px;
     }
@@ -107,12 +100,9 @@ h1 {
     .form {
         width: 50%;
     }
-    
     .daftar {
-        font-size: 16px;
-        height: 45px;
-    }
-    
+        font-size: 20px;
+    }   
     h1 {
         font-size: 50px;
     }
